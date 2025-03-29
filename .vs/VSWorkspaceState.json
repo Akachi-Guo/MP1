@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\home",
+    "\\src\\components\\project",
+    "\\src\\components\\ui",
+    "\\src\\config"
+  ],
+  "SelectedNode": "\\src\\components\\ui\\icon-cloud.tsx",
+  "PreviewInSolutionExplorer": false
+}
