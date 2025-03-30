@@ -22,19 +22,5 @@ export const careerList: Array<CareerItemType> = [
       logo: 'coffee',
       start: '2018',
       end: '2020'
-    },
-    {
-      company: 'Sinovation Ventures',
-      title: 'Investment Analyst',
-      logo: 'bank',
-      start: '2017',
-      end: '2018'
-    },
-    {
-      company: 'Expedia',
-      title: 'Software Engineer',
-      logo: 'coffee',
-      start: '2015',
-      end: '2017'
     }
   ]

@@ -102,7 +102,9 @@ export default async function Home() {
           {/* left column */}
           {/* blog */}
           <div className="flex flex-col gap-16">
-            {blogList.map((blog: BlogType) => (
+                      {blogList
+                          .slice(0, 2) 
+                          .map((blog: BlogType) => (
               <BlogCard key={blog.slug} blog={blog} titleAs='h3'/>
             ))}
           </div>

@@ -14,6 +14,6 @@ export function BlogCard({ blog, titleAs }: { blog: BlogType, titleAs?: keyof JS
       </Card.Eyebrow>
       <Card.Description>{blog.description}</Card.Description>
       <Card.Cta>Read blog</Card.Cta>
-    </Card>
+      </Card>
   )
 }

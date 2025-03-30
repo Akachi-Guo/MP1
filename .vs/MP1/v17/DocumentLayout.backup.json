@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lumen\\MP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\content\\blog\\mode.mdx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\content\\blog\\mode.mdx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\content\\blog\\daliy.mdx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\content\\blog\\daliy.mdx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\content\\blog\\llm-workflow.mdx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\content\\blog\\llm-workflow.mdx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\content\\blog\\test-blog.mdx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\content\\blog\\test-blog.mdx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\content\\blog\\test-blogme.mdx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\content\\blog\\test-blogme.mdx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\components\\home\\BlogCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\home\\BlogCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\components\\home\\Career.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\home\\Career.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\components\\awards\\Awards.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\awards\\Awards.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\config\\career.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\config\\career.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\components\\home\\ActivityCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\home\\ActivityCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\config\\siteConfig.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\config\\siteConfig.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\config\\projects.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\config\\projects.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\config\\infoConfig.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\config\\infoConfig.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\config\\education.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\config\\education.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\components\\project\\ProjectCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\project\\ProjectCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lumen\\MP1\\src\\components\\Button.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Button.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mode.mdx",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\content\\blog\\mode.mdx",
+              "RelativeDocumentMoniker": "src\\content\\blog\\mode.mdx",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\content\\blog\\mode.mdx",
+              "RelativeToolTip": "src\\content\\blog\\mode.mdx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T17:01:00.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "daliy.mdx",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\content\\blog\\daliy.mdx",
+              "RelativeDocumentMoniker": "src\\content\\blog\\daliy.mdx",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\content\\blog\\daliy.mdx",
+              "RelativeToolTip": "src\\content\\blog\\daliy.mdx",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwGEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T16:52:24.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test-blogme.mdx",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\content\\blog\\test-blogme.mdx",
+              "RelativeDocumentMoniker": "src\\content\\blog\\test-blogme.mdx",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\content\\blog\\test-blogme.mdx",
+              "RelativeToolTip": "src\\content\\blog\\test-blogme.mdx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T16:36:05.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test-blog.mdx",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\content\\blog\\test-blog.mdx",
+              "RelativeDocumentMoniker": "src\\content\\blog\\test-blog.mdx",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\content\\blog\\test-blog.mdx",
+              "RelativeToolTip": "src\\content\\blog\\test-blog.mdx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T16:35:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "llm-workflow.mdx",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\content\\blog\\llm-workflow.mdx",
+              "RelativeDocumentMoniker": "src\\content\\blog\\llm-workflow.mdx",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\content\\blog\\llm-workflow.mdx",
+              "RelativeToolTip": "src\\content\\blog\\llm-workflow.mdx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T16:35:20.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActivityCard.tsx",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\components\\home\\ActivityCard.tsx",
+              "RelativeDocumentMoniker": "src\\components\\home\\ActivityCard.tsx",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\components\\home\\ActivityCard.tsx",
+              "RelativeToolTip": "src\\components\\home\\ActivityCard.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T16:34:44.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectCard.tsx",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\components\\project\\ProjectCard.tsx",
+              "RelativeDocumentMoniker": "src\\components\\project\\ProjectCard.tsx",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\components\\project\\ProjectCard.tsx",
+              "RelativeToolTip": "src\\components\\project\\ProjectCard.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T16:33:06.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Button.tsx",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\components\\Button.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Button.tsx",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\components\\Button.tsx",
+              "RelativeToolTip": "src\\components\\Button.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T16:33:01.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "education.ts",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\config\\education.ts",
+              "RelativeDocumentMoniker": "src\\config\\education.ts",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\config\\education.ts",
+              "RelativeToolTip": "src\\config\\education.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T16:32:49.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "career.ts",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\config\\career.ts",
+              "RelativeDocumentMoniker": "src\\config\\career.ts",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\config\\career.ts",
+              "RelativeToolTip": "src\\config\\career.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T16:32:41.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Awards.tsx",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\components\\awards\\Awards.tsx",
+              "RelativeDocumentMoniker": "src\\components\\awards\\Awards.tsx",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\components\\awards\\Awards.tsx",
+              "RelativeToolTip": "src\\components\\awards\\Awards.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T16:30:20.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Career.tsx",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\components\\home\\Career.tsx",
+              "RelativeDocumentMoniker": "src\\components\\home\\Career.tsx",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\components\\home\\Career.tsx",
+              "RelativeToolTip": "src\\components\\home\\Career.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T16:28:52.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogCard.tsx",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\components\\home\\BlogCard.tsx",
+              "RelativeDocumentMoniker": "src\\components\\home\\BlogCard.tsx",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\components\\home\\BlogCard.tsx",
+              "RelativeToolTip": "src\\components\\home\\BlogCard.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T16:28:27.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "siteConfig.ts",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\config\\siteConfig.ts",
+              "RelativeDocumentMoniker": "src\\config\\siteConfig.ts",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\config\\siteConfig.ts",
+              "RelativeToolTip": "src\\config\\siteConfig.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T14:18:59.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "projects.ts",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\config\\projects.ts",
+              "RelativeDocumentMoniker": "src\\config\\projects.ts",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\config\\projects.ts",
+              "RelativeToolTip": "src\\config\\projects.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T14:18:50.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "infoConfig.ts",
+              "DocumentMoniker": "C:\\Users\\Lumen\\MP1\\src\\config\\infoConfig.ts",
+              "RelativeDocumentMoniker": "src\\config\\infoConfig.ts",
+              "ToolTip": "C:\\Users\\Lumen\\MP1\\src\\config\\infoConfig.ts",
+              "RelativeToolTip": "src\\config\\infoConfig.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T13:57:16.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
